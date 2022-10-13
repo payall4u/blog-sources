@@ -4,6 +4,9 @@ date: 2022-01-16T21:22:56+08:00
 draft: false
 images: ["hello"]
 categories: ["test"]
+showtoc: true
+tocopen: true
+UseHugoToc: true
 ---
 
 # Hello, world
